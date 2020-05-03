@@ -1,5 +1,5 @@
 # usedcars
-This work consist in the analyze of the used cars dataset from Kaggle.
+This work consist in analyze a dataset of the used cars from Kaggle and then make a prediction algorithm
 data/autos.csv: dataset domnloaded from kaggle. 357000 cars offered on eBay
 data/autos_clean.Rdata: is the cleaned dataset and have 198500 cars in function codition.
 usedcars.R: code in R
